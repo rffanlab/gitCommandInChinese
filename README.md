@@ -3,7 +3,7 @@ Git 常用命令解析以及用法
 1、git clone 
 复制远程仓库到本地
 用法：
-命令行CD到新建的目录，然后
+命令行CD到新建的目录，然后\n
 git clone https://github.com/rffanlab/gitCommandInChinese.git
 下载https://github.com/rffanlab/gitCommandInChinese 这个项目到本地
 
